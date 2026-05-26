@@ -45,7 +45,7 @@
 **Query:** [2_cohort_analysis.sql](/Project_Linked/2_cohort_analysis.sql)
 
 **Visualization:**
-![Cohort Analysis](/images/2_cohort_analysis.png)
+<img src="Images/2_cohort_analysis.png" alt="Cohort analysis" width="50%">
 
 **Key Findings:**
 - revenue per customer shows a decreasing trend over time
