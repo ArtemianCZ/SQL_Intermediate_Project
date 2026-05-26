@@ -16,7 +16,7 @@
 **Query:** [1_customer_segmentation.sql](/Project_Linked/1_customer_segmentation.sql)
 
 **Visualization:**
-![Customer Segmentation](/Images/1_customer_segmentation.png)
+<img src="Images/1_customer_segmentation.png" alt="Cohort analysis" width="50%">
 
 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue (135.4M)
@@ -68,7 +68,7 @@
 **Query:** [retention_analysis.sql](/Project_Linked/3_retention_analysis.sql)
 
 **Visualization:**
-![Retention Analysis](/Images/3_retention_analysis.png)
+<img src="Images/3_retention_analysis.png" alt="Cohort analysis" width="50%">
 
 **Key Findings:**
 
