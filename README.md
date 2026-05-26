@@ -79,6 +79,3 @@
 - **Database:** PostgresSQL
 - **Analysis Tools:** PostreSQL, DBeaver, VSCode
 - **Visualization:** ChatGPT
-
-
-[def]: /2_cohort_analysis.sql
